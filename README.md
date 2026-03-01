@@ -107,20 +107,6 @@ Full-stack hackathon project with real-world implementation<br>
 
 ---
 
-
-## ⚡ Dev Mindset
-
-```
-while(alive):
-    learn()
-    build()
-    break()
-    debug()
-    deploy()
-```
-
----
-
 ## 🚀 Current Focus
 
 ✔ Cloud Architecture
