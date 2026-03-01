@@ -44,10 +44,6 @@ Docker • CI/CD Pipelines • Infrastructure as Code • Cloud Deployment Autom
 Python backend with database integration and deployment-ready architecture
 👉 https://github.com/Parth-Athu/cloud-student-management-system
 
-🔹 **Clothing Website (Frontend Project)**
-Responsive UI built using HTML and TailwindCSS
-👉 https://github.com/Parth-Athu/Clothing-Website
-
 🔹 **Techify Hackathon DevRoots Project**
 Full-stack hackathon project with real-world implementation
 👉 https://github.com/Parth-Athu/Techify-Hackathon-DevRoots
