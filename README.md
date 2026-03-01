@@ -10,19 +10,47 @@
 
 🎓 B.Sc. IT student specializing in **Cloud & Application Development**
 ⚙️ Passionate about **Cloud Infrastructure, Automation, and Backend Systems**
-🧠 Strong believer in **learning by building real systems**
-🔬 Love experimenting, debugging, and optimizing performance
-🚀 Goal → Become a **Cloud / DevOps Engineer**
+🧠 Strong believer in **learning by building real-world systems**
+🔬 Enjoy experimenting, debugging, and performance optimization
+🚀 Career Goal → **Cloud / DevOps Engineer**
+
+### 📚 Currently Learning
+
+Docker • CI/CD Pipelines • Infrastructure as Code • Cloud Deployment Automation
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/parth-athu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/parthathu?igsh=MXh2bGdlZXljdDgwdw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/parth-athu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/parthathu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:parthathu10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+## 📦 GitHub Overview
+
+![Followers](https://img.shields.io/github/followers/Parth-Athu?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Parth-Athu?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View%20Profile-blue?style=for-the-badge\&logo=github)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Cloud Student Management System**
+Python backend with database integration and deployment-ready architecture
+👉 https://github.com/Parth-Athu/cloud-student-management-system
+
+🔹 **Clothing Website (Frontend Project)**
+Responsive UI built using HTML and TailwindCSS
+👉 https://github.com/Parth-Athu/Clothing-Website
+
+🔹 **Techify Hackathon DevRoots Project**
+Full-stack hackathon project with real-world implementation
+👉 https://github.com/Parth-Athu/Techify-Hackathon-DevRoots
 
 ---
 
@@ -75,7 +103,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/Parth-Athu/Parth-Athu/blob/output/github-contribution-grid-snake.svg" />
@@ -115,5 +143,5 @@ while(alive):
 
 ## 💡 Fun Fact
 
-I don't just write code…
+I don’t just write code…
 I build systems that run themselves.
