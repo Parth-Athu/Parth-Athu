@@ -111,14 +111,6 @@ Full-stack hackathon project with real-world implementation
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Parth-Athu"/>
-    
-</p>
-
----
 
 ## ⚡ Dev Mindset
 
