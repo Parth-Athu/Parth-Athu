@@ -39,10 +39,6 @@ Docker • CI/CD Pipelines • Infrastructure as Code • Cloud Deployment Autom
 
 ## 🚀 Featured Projects
 
-🔹 **Cloud Student Management System**<br>
-Python backend with database integration and deployment-ready architecture<br>
-👉 https://github.com/Parth-Athu/cloud-student-management-system<br>
-
 🔹 **Techify Hackathon DevRoots Project**<br>
 Full-stack hackathon project with real-world implementation<br>
 👉 https://github.com/Parth-Athu/Techify-Hackathon-DevRoots<br>
