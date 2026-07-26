@@ -15,7 +15,7 @@
 
 ### 📚 Currently Learning
 
-Docker • CI/CD Pipelines • Infrastructure as Code • Cloud Deployment Automation
+Linux • Docker • CI/CD Pipelines • Infrastructure as Code • Cloud Deployment Automation
 
 ---
 
