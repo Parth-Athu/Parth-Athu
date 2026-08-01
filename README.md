@@ -111,7 +111,3 @@ Full-stack hackathon project with real-world implementation<br>
 
 ---
 
-## 💡 Fun Fact
-
-I don’t just write code…
-I build systems that run themselves.
