@@ -104,6 +104,7 @@ Full-stack hackathon project with real-world implementation<br>
 
 ## 🚀 Current Focus
 
+✔ Linux Administrators 
 ✔ Cloud Architecture
 ✔ Backend Development
 ✔ DevOps Practices
