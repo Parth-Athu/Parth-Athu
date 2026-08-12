@@ -106,7 +106,6 @@ Full-stack hackathon project with real-world implementation<br>
 
 ✔ Linux Administrators 
 ✔ Cloud Architecture
-✔ Backend Development
 ✔ DevOps Practices
 ✔ Automation & Infrastructure
 
