@@ -81,19 +81,6 @@ Full-stack hackathon project with real-world implementation<br>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Parth-Athu&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Athu&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Athu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
